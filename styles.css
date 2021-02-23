@@ -1,0 +1,67 @@
+h1{
+  font-size: 80px;
+  font-family: 'Concert One', cursive;
+}
+.part-one{
+  background-color: #f1f9f9;
+}
+
+.nav-bar ul {
+
+  justify-content: space-space-between;
+  align-items: center;
+  font-size: 54px;
+  font-weight: 500;
+  font-family: 'Concert One', cursive;
+  padding-bottom: 10px;
+
+
+  list-style-type: none;
+  border: 5px;
+  margin: 10px;
+
+  overflow: hidden;
+  background-color: black;
+  text-align: inline-block;
+  text-align: center;
+}
+
+.nav-bar li {
+float: center;
+display: inline-block;
+
+}
+
+
+
+li a {
+display: inline-block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover:not(.active) {
+background-color: gray;
+}
+
+h2{
+    font-family: 'Inter', sans-serif;
+}
+
+.part-one{
+  padding: 20px;
+  padding-bottom: 500px;
+
+
+}
+
+hr{
+  width: 4%;
+  border: dotted 6px;
+  border-bottom: none;
+  margin: 50px auto;
+
+
+}
